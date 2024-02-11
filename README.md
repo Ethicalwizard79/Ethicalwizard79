@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ethicalwizard79
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Mail at: skullwizard120@gmail.com
+- 👀 I’m interested in All CodeS
+- 🌱 I’m currently learning Artificial Intelligence & Machine Learning
+- 💞️ I’m looking to collaborate on all coding stuff
+- 📫 How to reach me ... Mail at: prasann079@gmail.com
 
 <!---
 Ethicalwizard79/Ethicalwizard79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
