@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethicalwizard79
-- 👀 I’m interested in All CodeS
-- 🌱 I’m currently learning Artificial Intelligence & Machine Learning
+- 👀 I’m an fast learner and of an well adaptive nature
+- 🌱 I’m currently pursuing B.E in Artificial Intelligence & Machine Learning degree
 - 💞️ I’m looking to collaborate on all coding stuff
 - 📫 How to reach me ... Mail at: prasann079@gmail.com
 
