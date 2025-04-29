@@ -56,8 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ethicalwizard79&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethicalwizard79&theme=radical" alt="streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethicalwizard79&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
