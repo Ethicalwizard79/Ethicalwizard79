@@ -54,11 +54,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethicalwizard79&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsernameHere&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethicalwizard79&theme=radical" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethicalwizard79&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 ---
