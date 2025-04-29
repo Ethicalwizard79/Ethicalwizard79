@@ -64,8 +64,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: prasann079@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prasann-khamkar-358964238/)  
-- 🌐 Portfolio: *(You can add a portfolio link here later)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prasann-khamkar-358964238/) 
 
 ---
 
