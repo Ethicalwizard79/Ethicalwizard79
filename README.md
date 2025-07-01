@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasann Khamkar</h1>
-<h3 align="center">AI & ML Enthusiast | Software Developer | Cloud Learner</h3>
+<h3 align="center">AI & ML Enthusiast | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;AI+%7C+ML+%7C+Web+%7C+Mobile+Developer;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year B.E. Student in Artificial Intelligence & Machine Learning
+- 🎓 Recently Graduated B.E. Student in Artificial Intelligence & Machine Learning
 - 🚀 Passionate about building AI-powered applications, recommendation engines, and interactive UIs
-- 🌱 Currently learning: **Advanced Deep Learning**, **Google Cloud**, and **Low-Light Image Enhancement Models**
-- 🤝 Looking for entry-level opportunities in software, AI/ML, or cloud development
+- 🌱 Currently learning: **Advanced Deep Learning**, **Google Cloud**, and **Image Enhancement Models**
+- 🤝 Looking for entry-level opportunities in software & AI/ML
 
 ---
 
@@ -42,12 +42,13 @@
 
 ### 💼 Projects Showcase
 
+ 
+- 🌃 **Low-Light Image Enhancer** – TensorFlow-based enhancement
 - 🎬 **Movie Recommendation System** – MERN + TensorFlow for personalized results  
 - 🗣️ **Text-to-Speech App** – Multilingual speech output with Android Studio  
 - 💪 **Health & Fitness App** – Firebase-powered lifestyle coach  
 - 🧩 **Maze Generator App** – A* Algorithm + Tkinter GUI  
-- 🎲 **Lottery App** – Tkinter-based dynamic winner selector  
-- 🌃 **Low-Light Image Enhancer** – TensorFlow-based enhancement (in progress)
+- 🎲 **Lottery App** – Tkinter-based dynamic winner selector 
 
 ---
 
